@@ -1,3 +1,4 @@
 #/bin/bash
-print('test2')
+
+print('this is test2')
 print('hello world')
